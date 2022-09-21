@@ -7,7 +7,7 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a>
 
 <a href="https://www.linkedin.com/in/jmateuscamargo/" target="_blank" alt="Linkedin" title="Linkedin">
- <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
 
 <a href="https://www.credly.com/users/jose-mateus-camargo-de-leva" target="_blank" alt="cclaim" title="Cclaim">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg"></a>
