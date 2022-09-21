@@ -3,6 +3,9 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there I'm Mateus </h2>
  
 <p align="left">
+<a href="https://github.com/JoseMateusCamargo" target="_blank" alt="github" title="github">
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a>
+
 <a href="https://www.linkedin.com/in/jmateuscamargo/" target="_blank" alt="Linkedin" title="Linkedin">
  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
 
