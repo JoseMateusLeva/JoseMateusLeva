@@ -21,7 +21,7 @@
 
 Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
 
-- 👩‍💻 I’m currently working as Full Stack Developer / Data Scientist, developing an application for Logistics.
+- 👩‍💻 I’m currently working with developing specific research and insight algorithms (linear algebra, statistics and probability).
 - 🧮 I’m also applying Machine Learning models and Deep Learning, <i>especially:</i>
     - Development of NLP Model.
     - Sentiment analysis.
