@@ -19,9 +19,9 @@
 <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
+BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with developing specific algorithms using (linear algebra, statistics and probability), Machine Learning / Deep Learning, Robotic Process Automation (RPA). **Passionate about technology and the desire to unite that technology to help humanity**.
 
-- 👩‍💻 I’m currently working with developing specific research and insight algorithms (linear algebra, statistics and probability).
+- 👩‍💻 I’m currently working with developing specific algorithms using (linear algebra, statistics and probability).
 - 🧮 I’m also applying Machine Learning models and Deep Learning, <i>especially:</i>
     - Development of NLP Model.
     - Sentiment analysis.
@@ -86,9 +86,7 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseMateusLeva&theme=vue"/>
 
-
 <!-- **JoseMateusLeva/JoseMateusLeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <!---
 JoseMateusLeva/JoseMateusLeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
