@@ -71,7 +71,7 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 </p>
 
 #### Some repositores snippets 🧑‍💻⭐
-> 👉 [🅹🅰🆅🅰](https://github.com/JoseMateusLeva/java-camp#readme "Java") 
+> 👉 [🅹🅰🆅🅰](https://github.com/JoseMateusLeva/java-camp#readme "Java")  
 > 👉 [🅿🆈🆃🅷🅾🅽](https://github.com/JoseMateusCamargo/python#readme "Python")  
 > 👉 [🅿🅷🅿](https://github.com/JoseMateusCamargo/php#readme "PHP")  
 > 👉 [🅹🅰🆅🅰🆂🅲🆁🅸🅿🆃](https://github.com/JoseMateusCamargo/javascript#readme "Javascript")  
