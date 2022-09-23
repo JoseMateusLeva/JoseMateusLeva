@@ -70,9 +70,17 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 <code><img height="26" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium"></code>&nbsp
 </p>
 
+#### Some repositores snippets 🧑‍💻⭐
+> 👉 [🅹🅰🆅🅰](https://github.com/JoseMateusLeva/java-camp#readme "Java") 
+> 👉 [🅿🆈🆃🅷🅾🅽](https://github.com/JoseMateusCamargo/python#readme "Python")  
+> 👉 [🅿🅷🅿](https://github.com/JoseMateusCamargo/php#readme "PHP")  
+> 👉 [🅹🅰🆅🅰🆂🅲🆁🅸🅿🆃](https://github.com/JoseMateusCamargo/javascript#readme "Javascript")  
+> 👉 [🅲🆂🆂](https://github.com/JoseMateusCamargo/css-effects#readme "CSS")  
+> 👉 [🅳🅰🆃🅰🅱🅰🆂🅴](https://github.com/JoseMateusCamargo/database#readme "Database")  
+
 <br/>
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseMateusLeva&show_icons=true&locale=en&layout=compact"       alt="josemateuscamargo"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/>  
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseMateusLeva&show_icons=true&locale=en&layout=compact"       alt="JoseMateusLeva"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseMateusLeva&theme=vue"/>  
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
