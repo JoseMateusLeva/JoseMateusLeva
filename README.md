@@ -3,7 +3,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there I'm Mateus </h2>
  
 <p align="left">
- GitHub Particular
+ <b>GitHub Particular</b>
 <a href="https://github.com/JoseMateusCamargo" target="_blank" alt="github" title="github">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a>
  </p>
@@ -22,13 +22,13 @@
 <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor Full-Stack. <br/>Trabalhando com desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). **Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
+Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor Full-Stack. <br/>Trabalhando com desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
 
-- 👩‍💻 Atualmente estou trabalhando no desenvolvimento de algoritmos específicos usando (álgebra linear, estatística e probabilidade).
-- 🧮 Aplicando modelos de Machine Learning e Deep Learning, <i>especialmente:</i>
+- 👩‍💻 Atualmente atuando no desenvolvimento de algoritmos específicos usando (álgebra linear, estatística e probabilidade).
+- 🧮 Modelos de Machine Learning e Deep Learning, <i>especialmente:</i>
     - Desenvolvimento de modelos NLP.
     - Analise de sentimentos.
-- 🌱 E também estudando **Quantum Computation**.
+- 🌱 E também estudando (**Quantum Computation**).
 
 <h4 align="center">Especialidades :rocket:</h4>
 
