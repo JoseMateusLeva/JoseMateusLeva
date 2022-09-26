@@ -22,15 +22,15 @@
 <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with developing specific algorithms using (linear algebra, statistics and probability), Machine Learning / Deep Learning, Robotic Process Automation (RPA). **Passionate about technology and the desire to unite that technology to help humanity**.
+Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor Full-Stack. <br/>Trabalhando com desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). **Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
 
-- 👩‍💻 I’m currently working with developing specific algorithms using (linear algebra, statistics and probability).
-- 🧮 I’m also applying Machine Learning models and Deep Learning, <i>especially:</i>
-    - Development of NLP Model.
-    - Sentiment analysis.
-- 🌱 I’m currently learning **Quantum Computation**.
+- 👩‍💻 Atualmente estou trabalhando no desenvolvimento de algoritmos específicos usando (álgebra linear, estatística e probabilidade).
+- 🧮 Aplicando modelos de Machine Learning e Deep Learning, <i>especialmente:</i>
+    - Desenvolvimento de modelos NLP.
+    - Analise de sentimentos.
+- 🌱 E também estudando **Quantum Computation**.
 
-<h4 align="center">Specialist in languages :rocket:</h4>
+<h4 align="center">Especialidades :rocket:</h4>
 
 <p align="center">
 <img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="45" alt="Python">&nbsp
@@ -73,7 +73,7 @@ BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with 
 <code><img height="26" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium"></code>&nbsp
 </p>
 
-#### Some repositores snippets 🧑‍💻⭐
+#### Repositórios 🧑‍💻⭐
 > 👉 [🅹🅰🆅🅰 Bootcamp](https://github.com/JoseMateusLeva/java-camp#readme "Java") 
 <br/><br/>
 > 👉 [🅿🆈🆃🅷🅾🅽](https://github.com/JoseMateusCamargo/python#readme "Python")  
