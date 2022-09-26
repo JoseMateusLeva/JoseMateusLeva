@@ -4,9 +4,10 @@
  
 <p align="left">
 <a href="https://github.com/JoseMateusCamargo" target="_blank" alt="github" title="github">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">Repositório particular</a>
- 
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">R</a>
+ </p>
 
+<p align="left">
 <a href="https://www.linkedin.com/in/jmateuscamargo/" target="_blank" alt="Linkedin" title="Linkedin">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
 
