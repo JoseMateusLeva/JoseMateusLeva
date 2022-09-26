@@ -25,10 +25,10 @@
 Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor Full-Stack. <br/>Trabalhando com desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
 
 - 👩‍💻 Atualmente atuando no desenvolvimento de algoritmos específicos usando (álgebra linear, estatística e probabilidade).
-- 🧮 Modelos de Machine Learning e Deep Learning, <i>especialmente:</i>
+- 🧮 Modelos de Machine Learning e Deep Learning, <i>em especial:</i>
     - Desenvolvimento de modelos NLP.
     - Analise de sentimentos.
-- 🌱 E também estudando (**Quantum Computation**).
+- 🌱 E também estudando (**Computação Quântica**).
 
 <h4 align="center">Especialidades :rocket:</h4>
 
