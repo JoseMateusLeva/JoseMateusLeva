@@ -75,8 +75,8 @@ Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor Full-Sta
 
 #### Repositórios 🧑‍💻⭐
 > 👉 [🅹🅰🆅🅰 Bootcamp BR W7 Java](https://github.com/JoseMateusLeva/java-camp#readme "Java") 
- -[x] [POO + Java](https://github.com/JoseMateusLeva/java-camp/blob/master/POOJAVA.md)
- -[ ] [Java + Spring](https://github.com/JoseMateusLeva/java-camp/blob/master/SPRING.md)
+ - [x] [POO + Java](https://github.com/JoseMateusLeva/java-camp/blob/master/POOJAVA.md)
+ - [ ] [Java + Spring](https://github.com/JoseMateusLeva/java-camp/blob/master/SPRING.md)
 <br/><br/><br/>
 > 👉 [🅿🆈🆃🅷🅾🅽](https://github.com/JoseMateusCamargo/python#readme "Python")  
 > 👉 [🅿🅷🅿](https://github.com/JoseMateusCamargo/php#readme "PHP")  
