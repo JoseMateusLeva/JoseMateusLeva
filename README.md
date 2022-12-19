@@ -22,7 +22,7 @@
 <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor Full-Stack. <br/>Trabalhando com desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
+Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor. <br/>Trabalhando com desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
 
 - 👩‍💻 Atualmente atuando no desenvolvimento de algoritmos específicos usando (álgebra linear, estatística e probabilidade).
 - 🧮 Modelos de Machine Learning e Deep Learning, <i>em especial:</i>
