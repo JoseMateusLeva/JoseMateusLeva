@@ -13,12 +13,10 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/geeksforgeeks.svg"></a>
 
 <a href="https://www.hackerrank.com/blackhat1" target="_blank" alt="HackerRank" title="HackerRank">
-<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
  
 <a href="https://github.com/JoseMateusCamargo" target="_blank" alt="github" title="github">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a> GitHub Particular
- </p>
- 
+<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a><spam> GitHub Particular</spam>
 </p>
 
 Bacharel em Ciência da Computação, Cientista de Dados e desenvolvedor. <br/>Desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
