@@ -19,12 +19,15 @@
 <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a><spam> GitHub Particular</spam>
 </p>
 
-Bacharel em Ciência da Computação, Cientista de Dados e desenvolvedor. <br/>Desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
+
+Bacharel em Ciência da Computação, Cientista de Dados e desenvolvedor. <br/>Desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>
+
+**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
 
 - 👩‍💻 Atualmente no desenvolvimento de microsserviços.
 - 🌱 E também estudando (**Computação Quântica**).
 
-<h4 align="center">Trabalhando com:rocket:</h4>
+<h4 align="center">Trabalhando com :rocket:</h4>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/java.svg" height="45" alt="Python">&nbsp
