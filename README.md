@@ -22,20 +22,17 @@
 <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor. <br/>Trabalhando com desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
+Bacharel em Ciência da Computação, Cientista de Dados e desenvolvedor. <br/>Desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
 
-- 👩‍💻 Atualmente atuando no desenvolvimento de algoritmos específicos usando (álgebra linear, estatística e probabilidade).
-- 🧮 Modelos de Machine Learning e Deep Learning, <i>em especial:</i>
-    - Desenvolvimento de modelos NLP.
-    - Analise de sentimentos.
+- 👩‍💻 Atualmente no desenvolvimento de microsserviços.
 - 🌱 E também estudando (**Computação Quântica**).
 
-<h4 align="center">Especialidades :rocket:</h4>
+<h4 align="center">Trabalhando com:rocket:</h4>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/python.svg" height="45" alt="Python">&nbsp
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/java.svg" height="45" alt="Python">&nbsp
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/kotlin.svg" height="45" alt="PHP">&nbsp
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/python.svg" height="45" alt="Python">&nbsp
 </p>
 
 <br/>
