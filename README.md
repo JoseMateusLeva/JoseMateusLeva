@@ -33,13 +33,15 @@ Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor. <br/>Tr
 <h4 align="center">Especialidades :rocket:</h4>
 
 <p align="center">
-<img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="45" alt="Python">&nbsp
-<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="45" alt="PHP">&nbsp
-<img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="45" alt="R">&nbsp
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/python.svg" height="45" alt="Python">&nbsp
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/java.svg" height="45" alt="Python">&nbsp
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/kotlin.svg" height="45" alt="PHP">&nbsp
 </p>
 
 <br/>
+<p align="center">
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseMateusLeva&theme=vue"/>
+</p>
 
 <!-- **JoseMateusLeva/JoseMateusLeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
