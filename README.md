@@ -1,12 +1,6 @@
 <!--### Hi there 👋 I'm [Mateus!](https://github.com/JoseMateusCamargo)-->
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there I'm Mateus </h2>
- 
-<p align="left">
- <b>GitHub Particular</b>
-<a href="https://github.com/JoseMateusCamargo" target="_blank" alt="github" title="github">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a>
- </p>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jmateuscamargo/" target="_blank" alt="Linkedin" title="Linkedin">
@@ -20,6 +14,12 @@
 
 <a href="https://www.hackerrank.com/blackhat1" target="_blank" alt="HackerRank" title="HackerRank">
 <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
+ 
+ <b>GitHub Particular</b>
+<a href="https://github.com/JoseMateusCamargo" target="_blank" alt="github" title="github">
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></a>
+ </p>
+ 
 </p>
 
 Bacharel em Ciência da Computação, Cientista de Dados e desenvolvedor. <br/>Desenvolvimento de algoritmos específicos utilizando (álgebra linear, estatística e probabilidade), Machine Learning/Deep Learning, Robotic Process Automation (RPA). <br/>**Apaixonado por tecnologia e pelo desejo de unir essa tecnologia para ajudar a humanidade**.
