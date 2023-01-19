@@ -41,9 +41,9 @@ Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor. <br/>Tr
 
 <br/>
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseMateusLeva&show_icons=true&locale=en&layout=compact"       alt="JoseMateusLeva"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseMateusLeva&theme=vue"/>  
+<img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseMateusLeva&theme=vue"/>  
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseMateusLeva&theme=vue"/>
 
