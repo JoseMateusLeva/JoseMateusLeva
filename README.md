@@ -38,13 +38,7 @@ Bacharel em Ciência da Computação, Cientista de Dados, Desenvolvedor. <br/>Tr
 <img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="45" alt="R">&nbsp
 </p>
 
-
 <br/>
-
-<img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseMateusLeva&theme=vue"/>  
-
-<br/>
-
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseMateusLeva&theme=vue"/>
 
 <!-- **JoseMateusLeva/JoseMateusLeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
